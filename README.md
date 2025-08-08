@@ -45,14 +45,11 @@ Our analysis helps stakeholders:
 - Make data-driven decisions for app launches
 - Enhance user engagement and satisfaction
 
-## 🚀 Getting Started
+## 🚀 Getting StartedS
 1. Clone this repository
 2. Install required Python packages
 3. Run the Jupyter notebook `Play Store.ipynb`
 4. Explore the analysis and visualizations
 
 ## 📜 License
-This project is open source and available under the MIT License.
-
----
-*Created with ❤️ for data analysis and app development* 
+This project is open source and available under the MIT License
